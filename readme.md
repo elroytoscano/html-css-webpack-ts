@@ -13,3 +13,8 @@
 ## Styling
 
 - CSS
+
+### General Information
+
+- `a` tags have no display, hence float by default
+- For importing fonts, select the `import` function from the font site the fonts need to be imported from.
